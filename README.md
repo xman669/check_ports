@@ -1,10 +1,3 @@
-
-Perfecto. A continuación tienes una explicación detallada y completa sobre cómo usar y cuándo usar este script en Python, línea por línea y con ejemplos prácticos.
-
-⸻
-
-Propósito del Script
-
 Este script sirve para monitorear todas las conexiones de red activas en tu computadora y verificar si las direcciones IP remotas a las que tu equipo está conectado son maliciosas o sospechosas, usando la API pública de VirusTotal.
 Además, te permite cerrar manualmente procesos (conexiones) que consideres peligrosos.
 
